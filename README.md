@@ -6,3 +6,4 @@ Setup:
 ```
 ensure m-flashlight
 ```
+
